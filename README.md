@@ -1,2 +1,2 @@
 # Covid19_Data_Analysis
-This is an analysis of Covid 19 dataset using multiple SQL queries. The dataset used for this analysis includes various information regarding COVID-19 cases such as confirmed cases, deaths, vaccinations, and recoveries segmented by different geographical locations and time periods.
+This is an analysis of Covid 19 dataset using multiple SQL queries. The dataset used for this analysis includes various information regarding COVID-19 cases such as confirmed cases, deaths, vaccinations, and recoveries segmented by different geographical locations and time periods. I cleaned the dataset using Excel and then separated it into 2 different excel files, CovidVaccinations and CovidDeaths.
