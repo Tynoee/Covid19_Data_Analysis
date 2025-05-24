@@ -27,7 +27,7 @@ The interactive dashboard visualizes global and regional COVID-19 trends, featur
 
 🔗 [View the COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/tinotenda.chidume/viz/Covid19Dashboard_17480847809640/Dashboard1?publish=yes)  
 
-## 📌 Key Insights (Optional)
+## 📌 Key Insights
 
 - Some countries had disproportionately high infection rates relative to population size.
 - Vaccination rollout pace varied widely by region.
